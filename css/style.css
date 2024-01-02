@@ -1,0 +1,49 @@
+.btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active{
+    background-color: blue;
+    border-radius: 
+
+}
+.imgsearch{ height:40px;
+    width:40px;
+
+}
+.searchinput{
+    background-color: rgba(128, 128, 128, 0.167);
+}
+.imgwe{
+    height: 30px;
+    width: 30px;
+    align-items: center;
+    position:absolute;
+    left:40%;
+    right:10%;
+    
+}
+.card {
+    box-shadow: 0 0 10px 0 rgba(100, 100, 100, 0.26);
+  }
+  ul > li
+  {
+      list-style-type: none;
+    display:flex;
+    margin-left: 20px;
+    margin-right: 20px;
+
+  }
+    
+
+  .imgwe{
+    height:100;
+    width:100;
+    position:relative;
+    transform: translateX(-50,-50);   
+    
+  }
+
+.main{
+    height: 100vh;
+    background-color:#eee; 
+    background-size: cover;
+    bottom:0px;
+    
+}
